@@ -1,0 +1,13 @@
+<html>
+<head> <title>Spring</title>
+</head>
+<body >
+<center><font size='+3' color='green'>Spring</font></center>
+<hr>
+<center><form method=?post? action=?tampil.php?>
+<img src="spring.png" alt="HTML" width="350" height="250">
+</form></center>
+<hr>
+</body>
+</html> 
+ 
